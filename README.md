@@ -1,190 +1,221 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=220&section=header&text=SAJITH%20RAHMAN%20A%20M&fontSize=46&fontColor=00F5D4&fontAlignY=40&desc=%3E%20ERP%20ARCHITECT%20%7C%20PYTHON%20ENGINEER%20%7C%20AUTOMATION%20BUILDER&descAlignY=62&descSize=15&descColor=B794F4&animation=twinkling" width="100%"/>
+
+<!-- ===================================================== -->
+<!--                 SAJITH RAHMAN A M                     -->
+<!--              FUTURISTIC GITHUB PROFILE                -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=00F5D4&background=0D111700&center=true&vCenter=true&width=820&height=45&lines=%3E+initializing+sajith.rahman...;%3E+Senior+Odoo+Developer;%3E+Python+Backend+Engineer;%3E+Techno-Functional+Consultant;%3E+ERP+%C2%B7+APIs+%C2%B7+Automation+%C2%B7+AI;%3E+status%3A+building+the+future+of+business+software)](https://github.com/CreatorRoad)
-
-<a href="https://www.linkedin.com/in/sajith-rahman-a-m-3b3130229/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4&labelColor=0D1117&color=00F5D4"/></a>
-<a href="https://github.com/CreatorRoad"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=B794F4&labelColor=0D1117&color=B794F4"/></a>
-<img src="https://komarev.com/ghpvc/?username=CreatorRoad&style=for-the-badge&color=0D1117&labelColor=0D1117&label=VISITORS"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050A18,40:101B3D,100:00D4FF&text=SAJITH%20RAHMAN%20A%20M&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Odoo%20Developer%20%7C%20Python%20Backend%20Engineer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
-<!-- ═══════════════ SYSTEM BOOT ═══════════════ -->
-## `> SYSTEM.BOOT`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+Scalable+ERP+Solutions;Engineering+with+Python+%26+Odoo;Backend+Development+%7C+API+Integrations;Transforming+Business+Processes+into+Technology;Always+Learning.+Always+Building." alt="Typing SVG" />
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  USER ........ Sajith Rahman A M                             ║
-║  ROLE ........ Senior Odoo Developer · Python Backend        ║
-║  EXPERIENCE .. 4.8 YRS            CERT .. Odoo 19 Functional ║
-║  LOCATION .... India              STATUS .. ● ONLINE         ║
-╠══════════════════════════════════════════════════════════════╣
-║  > loading modules ........... [██████████] 100%             ║
-║  > odoo.orm .................. [██████████] OK               ║
-║  > owl.frontend .............. [█████████░] OK               ║
-║  > rest.integrations ......... [██████████] OK               ║
-║  > postgres.optimizer ........ [█████████░] OK               ║
-║  > docker.devops ............. [███████░░░] LEARNING         ║
-║  > ai.erp .................... [██████░░░░] EXPLORING        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<br/><br/>
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
-## `> WHO.AM.I`
+<a href="https://www.linkedin.com/in/sajith-rahman-a-m-3b3130229/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/CreatorRoad">
+  <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/CreatorRoad?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-Explore-00D4FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<br/><br/>
 
-**🧬 Identity**
-- Senior Odoo Developer & Python Backend Engineer
-- Odoo techno-functional consultant: I speak both *business* and *code*
-- 4.8 years shipping ERP systems across industries
+<img src="https://komarev.com/ghpvc/?username=CreatorRoad&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
 
-**⚙️ Core Directives**
-- Build scalable custom Odoo modules
-- Extend standard apps cleanly through inheritance
-- Connect Odoo with the outside world via REST APIs
-- Migrate databases and modules across Odoo versions
-- Tune PostgreSQL queries for speed
+</div>
 
-</td>
-<td width="45%" valign="top">
+---
+
+## `01` — SYSTEM PROFILE
+
+<img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 ```python
-class Sajith:
-    role = "Senior Odoo Developer"
-    cert = "Odoo 19 Functional"
+class Developer:
+    def __init__(self):
+        self.name = "Sajith Rahman A M"
+        self.role = "Senior Odoo Developer"
+        self.experience = "4.8+ Years"
+        self.specialization = [
+            "Odoo ERP Development",
+            "Python Backend Engineering",
+            "Techno-Functional Consulting",
+            "API Integrations"
+        ]
+        self.certification = "Odoo 19 Functional Certified"
+        self.location = "India"
 
-    stack = {
-        "core":     ["Python", "Odoo", "PostgreSQL"],
-        "frontend": ["OWL", "JavaScript", "XML"],
-        "ops":      ["Docker", "Linux", "Odoo.sh"],
-    }
+    def current_focus(self):
+        return [
+            "Scalable ERP Architecture",
+            "Advanced Odoo Development",
+            "Docker & DevOps",
+            "Cloud Infrastructure",
+            "AI-powered ERP Solutions"
+        ]
 
-    def mission(self):
-        return "Turn messy business "\
-               "processes into clean, "\
-               "automated systems."
+    def say_hello(self):
+        print("Let's build something impactful!")
+
+me = Developer()
+me.say_hello()
 ```
 
-</td>
-</tr>
-</table>
+### About Me
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-## `> TECH.STACK`
+I'm a software engineer specializing in **Odoo ERP development, Python backend engineering, and business process automation**.
+
+With 4.8+ years of professional experience, I work across the complete ERP development lifecycle — from understanding business requirements and designing solutions to development, integrations, deployment, migration, and production support.
+
+- Building custom Odoo modules and enterprise applications.
+- Developing scalable backend solutions using Python.
+- Working with Odoo ORM, PostgreSQL, XML, JavaScript and OWL.
+- Integrating third-party applications and external APIs.
+- Customizing business workflows across multiple industries.
+- Handling Odoo version migrations, performance optimization and troubleshooting.
+- Bridging technical implementation with functional business requirements.
+
+<br clear="right"/>
+
+---
+
+## `02` — TECHNOLOGY MATRIX
 
 <div align="center">
 
-**// BACKEND & ERP**
+### CORE ENGINEERING
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5D4&color=00F5D4"/>
-<img src="https://img.shields.io/badge/Odoo-0D1117?style=for-the-badge&logo=odoo&logoColor=B794F4&color=B794F4"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F5D4&color=00F5D4"/>
-<img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=B794F4&color=B794F4"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,js,html,css&theme=dark" />
 
-**// FRONTEND**
+### ERP & BACKEND ECOSYSTEM
 
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F5D4&color=00F5D4"/>
-<img src="https://img.shields.io/badge/OWL-0D1117?style=for-the-badge&logo=odoo&logoColor=B794F4&color=B794F4"/>
-<img src="https://img.shields.io/badge/XML-0D1117?style=for-the-badge&logo=xml&logoColor=00F5D4&color=00F5D4"/>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=B794F4&color=B794F4"/>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00F5D4&color=00F5D4"/>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/Odoo%20ORM-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/OWL%20Framework-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-**// DEVOPS & TOOLS**
+### INFRASTRUCTURE & TOOLS
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,aws,nginx,vscode&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,aws,nginx,vscode&theme=dark" />
 
 </div>
 
-<!-- ═══════════════ CAPABILITY MATRIX ═══════════════ -->
-## `> CAPABILITY.MATRIX`
+---
 
-| `MODULE` | `CAPABILITIES` |
-|:--|:--|
-| 🧩 **Odoo Dev** | Custom modules · Core inheritance · ORM · Server actions |
-| 🐍 **Backend** | Python · PostgreSQL · Business logic · Query optimization |
-| 🎨 **Frontend** | JavaScript · OWL components · XML views · QWeb reports |
-| 🔌 **Integrations** | REST APIs · Third-party systems · Webhooks |
-| 🚚 **Migration** | Odoo 16 → 17 → 18 → 19 |
-| 🛠️ **Admin** | Odoo.sh · Linux · Deployment |
-| 📦 **Functional** | CRM · Sales · Accounting · HRMS · Payroll · Inventory · POS |
+## `03` — ODOO ENGINEERING EXPERTISE
 
-<!-- ═══════════════ DOMAINS ═══════════════ -->
-## `> DOMAINS.UNLOCKED`
+| Area | Expertise |
+|:---|:---|
+| **Backend Development** | Python, Odoo ORM, Business Logic, Custom Models |
+| **Frontend Development** | XML Views, JavaScript, OWL Components, QWeb |
+| **Database** | PostgreSQL, Query Optimization, Data Management |
+| **Integrations** | REST APIs, Third-party Services, Payment Gateways |
+| **ERP Customization** | Standard Module Inheritance, Custom Addons, Workflow Automation |
+| **Migration** | Odoo Version Migration, Data Migration, Compatibility Fixes |
+| **Deployment** | Odoo.sh, Linux, Ubuntu, Nginx, Server Configuration |
+| **Development Tools** | Git, GitLab, GitHub, Jenkins |
+
+### Odoo Versions
+
+<img src="https://img.shields.io/badge/Odoo_16-714B67?style=flat-square&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/Odoo_17-714B67?style=flat-square&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/Odoo_18-714B67?style=flat-square&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/Odoo_19-714B67?style=flat-square&logo=odoo&logoColor=white" />
+
+---
+
+## `04` — BUSINESS DOMAINS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HRMS-0D1117?style=flat-square&labelColor=0D1117&color=00F5D4"/>
-<img src="https://img.shields.io/badge/PAYROLL-0D1117?style=flat-square&labelColor=0D1117&color=B794F4"/>
-<img src="https://img.shields.io/badge/ACCOUNTING-0D1117?style=flat-square&labelColor=0D1117&color=00F5D4"/>
-<img src="https://img.shields.io/badge/CRM-0D1117?style=flat-square&labelColor=0D1117&color=B794F4"/>
-<img src="https://img.shields.io/badge/INVENTORY-0D1117?style=flat-square&labelColor=0D1117&color=00F5D4"/>
-<img src="https://img.shields.io/badge/POS-0D1117?style=flat-square&labelColor=0D1117&color=B794F4"/>
-<img src="https://img.shields.io/badge/ECOMMERCE-0D1117?style=flat-square&labelColor=0D1117&color=00F5D4"/>
-<img src="https://img.shields.io/badge/INSURANCE-0D1117?style=flat-square&labelColor=0D1117&color=B794F4"/>
-<img src="https://img.shields.io/badge/CONSTRUCTION-0D1117?style=flat-square&labelColor=0D1117&color=00F5D4"/>
-<img src="https://img.shields.io/badge/MANUFACTURING-0D1117?style=flat-square&labelColor=0D1117&color=B794F4"/>
+| ENTERPRISE SYSTEMS | BUSINESS OPERATIONS |
+|:---:|:---:|
+| HRMS & Payroll | Accounting & Finance |
+| CRM & Sales | Purchase & Inventory |
+| POS & eCommerce | Insurance Management |
+| Construction Management | Employee Lifecycle |
+| Workflow Automation | Business Reporting |
 
 </div>
 
-<!-- ═══════════════ FEATURED ═══════════════ -->
-## `> FEATURED.MISSIONS`
+I enjoy working on solutions that connect multiple business departments into one integrated ERP ecosystem.
 
-<!-- Replace REPO_NAME_1 / REPO_NAME_2 with your real public repo names -->
-<div align="center">
+---
 
-<a href="https://github.com/CreatorRoad/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CreatorRoad&repo=REPO_NAME_1&theme=transparent&bg_color=0D1117&title_color=00F5D4&text_color=8b949e&icon_color=B794F4&border_color=30363d" width="48%"/></a>
-<a href="https://github.com/CreatorRoad/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CreatorRoad&repo=REPO_NAME_2&theme=transparent&bg_color=0D1117&title_color=00F5D4&text_color=8b949e&icon_color=B794F4&border_color=30363d" width="48%"/></a>
-
-</div>
-
-<!-- ═══════════════ LEARNING ═══════════════ -->
-## `> NOW.LOADING`
-
-```diff
-+ Docker & containerized Odoo deployments
-+ CI/CD and deployment automation
-+ AWS infrastructure & server administration
-+ Advanced Python backend architecture
-+ AI-powered ERP solutions and integrations
-+ Scalable enterprise application design
-```
-
-<!-- ═══════════════ ANALYTICS ═══════════════ -->
-## `> TELEMETRY`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CreatorRoad&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00F5D4&icon_color=B794F4&text_color=c9d1d9&border_color=30363d&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorRoad&layout=compact&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9&border_color=30363d"/>
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=CreatorRoad&background=0D1117&ring=B794F4&fire=00F5D4&currStreakLabel=00F5D4&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=B794F4&dates=8b949e&stroke=30363d&border=30363d"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CreatorRoad&bg_color=0D1117&color=00F5D4&line=B794F4&point=FFFFFF&area=true&area_color=B794F4&hide_border=true"/>
-
-</div>
-
-<!-- ═══════════════ CONTACT ═══════════════ -->
-## `> OPEN.CHANNEL`
-
-<div align="center">
-
-*Always open to connecting about ERP architecture, integrations, and projects worth building.*
-
-<a href="https://www.linkedin.com/in/sajith-rahman-a-m-3b3130229/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4&labelColor=0D1117&color=00F5D4"/></a>
-<a href="https://github.com/CreatorRoad"><img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=B794F4&labelColor=0D1117&color=B794F4"/></a>
+## `05` — ENGINEERING MINDSET
 
 ```text
-> Building reliable ERP solutions. Automating business processes. Learning continuously._
+┌─────────────────────────────────────────────────────┐
+│                  MY DEVELOPMENT FLOW                │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│   01. UNDERSTAND       →  Business Requirements     │
+│   02. ARCHITECT        →  Technical Solution Design  │
+│   03. ENGINEER         →  Python & Odoo Development  │
+│   04. INTEGRATE        →  APIs & External Systems    │
+│   05. VALIDATE         →  Testing & Optimization     │
+│   06. DEPLOY           →  Production & Maintenance   │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
+
+### Currently Exploring
+
+- Docker and containerized application deployment.
+- DevOps workflows and CI/CD automation.
+- AWS cloud infrastructure and server administration.
+- Advanced software architecture and scalable systems.
+- AI integration with ERP platforms.
+
+---
+
+## `06` — GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CreatorRoad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050A18&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorRoad&layout=compact&theme=tokyonight&hide_border=true&bg_color=050A18&title_color=00D4FF&text_color=FFFFFF" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=CreatorRoad&theme=tokyonight&hide_border=true&background=050A18&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CreatorRoad&bg_color=050A18&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,12&height=100&section=footer" width="100%"/>
+---
+
+## `07` — LET'S CONNECT
+
+<div align="center">
+
+### Have an ERP challenge or an interesting engineering idea?
+
+I'm always interested in connecting with developers, technology professionals, and organizations building impactful software solutions.
+
+<a href="https://www.linkedin.com/in/sajith-rahman-a-m-3b3130229/">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/CreatorRoad">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**BUILD. AUTOMATE. INNOVATE. REPEAT.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:101B3D,100:050A18&height=120&section=footer" width="100%" />
+
+</div>
