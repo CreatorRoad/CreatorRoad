@@ -1,221 +1,251 @@
-
-<!-- ===================================================== -->
-<!--                 SAJITH RAHMAN A M                     -->
-<!--              FUTURISTIC GITHUB PROFILE                -->
-<!-- ===================================================== -->
+<!--
+  Sajith Rahman A M | GitHub Profile
+  Design direction: minimal editorial / engineering portfolio
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050A18,40:101B3D,100:00D4FF&text=SAJITH%20RAHMAN%20A%20M&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Odoo%20Developer%20%7C%20Python%20Backend%20Engineer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+# SAJITH RAHMAN A M
 
-<br/>
+### Senior Odoo Developer · Python Backend Engineer · Techno-Functional Consultant
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+Scalable+ERP+Solutions;Engineering+with+Python+%26+Odoo;Backend+Development+%7C+API+Integrations;Transforming+Business+Processes+into+Technology;Always+Learning.+Always+Building." alt="Typing SVG" />
+**I build business software that makes complex operations simpler.**
 
-<br/><br/>
+[LinkedIn](https://www.linkedin.com/in/sajith-rahman-a-m-3b3130229/) · [GitHub](https://github.com/CreatorRoad) · [Repositories](https://github.com/CreatorRoad?tab=repositories)
 
-<a href="https://www.linkedin.com/in/sajith-rahman-a-m-3b3130229/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/CreatorRoad">
-  <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/CreatorRoad?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-Explore-00D4FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=CreatorRoad&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/EXPERIENCE-4.8%2B%20YEARS-172554?style=flat-square" />
+<img src="https://img.shields.io/badge/SPECIALIZATION-ODOO%20%7C%20PYTHON-714B67?style=flat-square&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/CERTIFICATION-ODOO%2019%20FUNCTIONAL-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/LOCATION-INDIA-334155?style=flat-square" />
 
 </div>
 
 ---
 
-## `01` — SYSTEM PROFILE
+## PROFILE
 
-<img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+I'm a software engineer focused on **Odoo ERP development, Python backend engineering, and enterprise process automation**. My work sits at the intersection of software engineering and business operations: understanding how a business works, translating that into a maintainable technical design, and delivering it through reliable ERP solutions.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Sajith Rahman A M"
-        self.role = "Senior Odoo Developer"
-        self.experience = "4.8+ Years"
-        self.specialization = [
-            "Odoo ERP Development",
-            "Python Backend Engineering",
-            "Techno-Functional Consulting",
-            "API Integrations"
-        ]
-        self.certification = "Odoo 19 Functional Certified"
-        self.location = "India"
+I work across the Odoo development lifecycle — requirement analysis, solution design, custom development, standard-module extensions, integrations, migration, deployment, and post-go-live support. I enjoy solving problems where multiple business functions, data flows, and external systems need to work together.
 
-    def current_focus(self):
-        return [
-            "Scalable ERP Architecture",
-            "Advanced Odoo Development",
-            "Docker & DevOps",
-            "Cloud Infrastructure",
-            "AI-powered ERP Solutions"
-        ]
+My approach is practical: understand the business problem first, keep the implementation maintainable, and build for the people who will use and support the system.
 
-    def say_hello(self):
-        print("Let's build something impactful!")
+## AT A GLANCE
 
-me = Developer()
-me.say_hello()
-```
-
-### About Me
-
-I'm a software engineer specializing in **Odoo ERP development, Python backend engineering, and business process automation**.
-
-With 4.8+ years of professional experience, I work across the complete ERP development lifecycle — from understanding business requirements and designing solutions to development, integrations, deployment, migration, and production support.
-
-- Building custom Odoo modules and enterprise applications.
-- Developing scalable backend solutions using Python.
-- Working with Odoo ORM, PostgreSQL, XML, JavaScript and OWL.
-- Integrating third-party applications and external APIs.
-- Customizing business workflows across multiple industries.
-- Handling Odoo version migrations, performance optimization and troubleshooting.
-- Bridging technical implementation with functional business requirements.
-
-<br clear="right"/>
+| | |
+|:--|:--|
+| **Current professional focus** | Senior Odoo Developer / Python Backend Engineer |
+| **Experience** | 4.8+ years in software and ERP implementation |
+| **Core platform** | Odoo 16, 17, 18 and 19 |
+| **Certification** | Odoo 19 Functional Certification |
+| **Backend** | Python, Odoo ORM, PostgreSQL |
+| **Web technologies** | XML, JavaScript, OWL, QWeb |
+| **Integrations** | REST APIs, external services, payment and business-system integrations |
+| **Delivery** | Technical analysis, implementation, migration, UAT and production support |
+| **Infrastructure** | Linux / Ubuntu, Odoo.sh, Nginx, AWS EC2 |
+| **Currently developing** | Docker, container workflows, CI/CD and cloud operations |
 
 ---
 
-## `02` — TECHNOLOGY MATRIX
+## WHAT I DO
+
+### 01 / Odoo application engineering
+
+- Design and develop custom Odoo modules and reusable addons.
+- Extend standard Odoo applications using inheritance and clean extension patterns.
+- Implement models, fields, relations, computed fields, constraints, onchange logic and business methods.
+- Configure access rights, record rules, menus, actions, views and user workflows.
+- Build reports, QWeb templates, wizards, scheduled actions and automated operations.
+- Customize web-client behaviour with JavaScript and OWL components.
+- Diagnose functional and technical issues across modules.
+
+### 02 / Python & backend development
+
+- Develop maintainable business logic with Python.
+- Work with the Odoo ORM, transactions, domains, recordsets and environments.
+- Design data operations and troubleshoot PostgreSQL-related issues.
+- Build and consume REST APIs for communication between Odoo and external systems.
+- Handle authentication, payload mapping, validation, error handling and integration logging.
+- Review performance bottlenecks and improve inefficient data access patterns.
+
+### 03 / ERP implementation & techno-functional delivery
+
+- Understand business requirements and map them to Odoo capabilities.
+- Identify gaps between standard functionality and business expectations.
+- Prepare technical and functional documentation.
+- Coordinate development, demonstrations, UAT and issue resolution.
+- Support data migration, version upgrades, deployment and go-live activities.
+- Communicate implementation status, dependencies, risks and next steps with stakeholders.
+
+### 04 / Application operations & deployment
+
+- Work with Linux / Ubuntu environments and Odoo deployments.
+- Configure and troubleshoot application services and Nginx reverse-proxy setups.
+- Work with Odoo.sh development and staging workflows.
+- Use Git-based development and collaboration practices.
+- Explore containerized deployment and repeatable infrastructure workflows.
+
+---
+
+## TECHNICAL TOOLKIT
 
 <div align="center">
 
-### CORE ENGINEERING
+**LANGUAGES & BACKEND**
 
-<img src="https://skillicons.dev/icons?i=python,postgres,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js&perline=6" />
 
-### ERP & BACKEND ECOSYSTEM
+**ERP & APPLICATION DEVELOPMENT**
 
 <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-<img src="https://img.shields.io/badge/Odoo%20ORM-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-<img src="https://img.shields.io/badge/OWL%20Framework-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/ORM-714B67?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OWL-714B67?style=for-the-badge" />
 <img src="https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/QWeb-714B67?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20API-2563EB?style=for-the-badge" />
 
-### INFRASTRUCTURE & TOOLS
+**DATA & INFRASTRUCTURE**
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,aws,nginx,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,linux,docker,aws,nginx&perline=6" />
+
+**DEVELOPMENT WORKFLOW**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,jenkins&perline=6" />
 
 </div>
 
----
-
-## `03` — ODOO ENGINEERING EXPERTISE
-
-| Area | Expertise |
-|:---|:---|
-| **Backend Development** | Python, Odoo ORM, Business Logic, Custom Models |
-| **Frontend Development** | XML Views, JavaScript, OWL Components, QWeb |
-| **Database** | PostgreSQL, Query Optimization, Data Management |
-| **Integrations** | REST APIs, Third-party Services, Payment Gateways |
-| **ERP Customization** | Standard Module Inheritance, Custom Addons, Workflow Automation |
-| **Migration** | Odoo Version Migration, Data Migration, Compatibility Fixes |
-| **Deployment** | Odoo.sh, Linux, Ubuntu, Nginx, Server Configuration |
-| **Development Tools** | Git, GitLab, GitHub, Jenkins |
-
-### Odoo Versions
-
-<img src="https://img.shields.io/badge/Odoo_16-714B67?style=flat-square&logo=odoo&logoColor=white" />
-<img src="https://img.shields.io/badge/Odoo_17-714B67?style=flat-square&logo=odoo&logoColor=white" />
-<img src="https://img.shields.io/badge/Odoo_18-714B67?style=flat-square&logo=odoo&logoColor=white" />
-<img src="https://img.shields.io/badge/Odoo_19-714B67?style=flat-square&logo=odoo&logoColor=white" />
+| Category | Technologies / Areas |
+|:--|:--|
+| **Programming** | Python, JavaScript |
+| **Odoo** | ORM, models, views, security, actions, reports, controllers, QWeb, OWL |
+| **Frontend** | XML, JavaScript, OWL, HTML, CSS |
+| **Database** | PostgreSQL, SQL, data modelling, query troubleshooting |
+| **Integration** | REST API, JSON, third-party service integration |
+| **Version control** | Git, GitHub, GitLab |
+| **Deployment & hosting** | Odoo.sh, Linux, Ubuntu, Nginx, AWS EC2 |
+| **Automation & delivery** | Jenkins, CI/CD concepts, testing and release workflows |
+| **Learning in practice** | Docker, containerization and infrastructure automation |
 
 ---
 
-## `04` — BUSINESS DOMAINS
+## ODOO PLATFORM EXPERIENCE
 
 <div align="center">
 
-| ENTERPRISE SYSTEMS | BUSINESS OPERATIONS |
-|:---:|:---:|
-| HRMS & Payroll | Accounting & Finance |
-| CRM & Sales | Purchase & Inventory |
-| POS & eCommerce | Insurance Management |
-| Construction Management | Employee Lifecycle |
-| Workflow Automation | Business Reporting |
+<img src="https://img.shields.io/badge/Odoo%2016-714B67?style=flat-square&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/Odoo%2017-714B67?style=flat-square&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/Odoo%2018-714B67?style=flat-square&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/Odoo%2019-714B67?style=flat-square&logo=odoo&logoColor=white" />
 
 </div>
 
-I enjoy working on solutions that connect multiple business departments into one integrated ERP ecosystem.
+Areas of work include:
+
+- **Custom module development:** new business objects, workflows, validations and supporting views.
+- **Standard module extension:** targeted inheritance and customization of existing Odoo applications.
+- **Version migration:** adapting custom modules and supporting data migration between Odoo versions, including 17 → 19 work.
+- **Web client customization:** JavaScript / OWL components and user-interface behaviour.
+- **Integrations:** connecting ERP workflows with external applications and services.
+- **Troubleshooting:** resolving module, access, data, configuration and deployment issues.
 
 ---
 
-## `05` — ENGINEERING MINDSET
+## BUSINESS DOMAINS
+
+I have worked with ERP workflows across different business functions. Some of the areas I understand and contribute to:
+
+| Business area | Example processes |
+|:--|:--|
+| **Human Resources** | Employee lifecycle, recruitment, onboarding, leave, attendance and payroll |
+| **Accounting & Finance** | Invoicing, payments, accounting workflows and financial operations |
+| **CRM & Sales** | Lead management, opportunities, quotations and sales processes |
+| **Inventory & Purchase** | Warehouses, stock movements, replenishment and procurement |
+| **POS & eCommerce** | Point of sale, online sales and connected business operations |
+| **Insurance** | Customer, policy and broker-oriented workflows |
+| **Construction** | Project-related operational and financial workflows |
+
+---
+
+## HOW I APPROACH DELIVERY
+
+I believe good ERP development is more than writing code. A solution should fit the business, be understandable to the next developer, and remain supportable after deployment.
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                  MY DEVELOPMENT FLOW                │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│   01. UNDERSTAND       →  Business Requirements     │
-│   02. ARCHITECT        →  Technical Solution Design  │
-│   03. ENGINEER         →  Python & Odoo Development  │
-│   04. INTEGRATE        →  APIs & External Systems    │
-│   05. VALIDATE         →  Testing & Optimization     │
-│   06. DEPLOY           →  Production & Maintenance   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+DISCOVER
+  Understand the business process, users and pain points
+      |
+ANALYSE
+  Map requirements, standard features and functional gaps
+      |
+DESIGN
+  Define models, workflows, integrations and access patterns
+      |
+BUILD
+  Develop modular, reusable and maintainable solutions
+      |
+VERIFY
+  Test business scenarios, permissions, data and edge cases
+      |
+DELIVER
+  Support UAT, deployment, documentation and handover
+      |
+IMPROVE
+  Monitor issues, optimize performance and evolve the solution
 ```
 
-### Currently Exploring
+**Engineering principles I value**
 
-- Docker and containerized application deployment.
-- DevOps workflows and CI/CD automation.
-- AWS cloud infrastructure and server administration.
-- Advanced software architecture and scalable systems.
-- AI integration with ERP platforms.
-
----
-
-## `06` — GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CreatorRoad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050A18&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorRoad&layout=compact&theme=tokyonight&hide_border=true&bg_color=050A18&title_color=00D4FF&text_color=FFFFFF" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=CreatorRoad&theme=tokyonight&hide_border=true&background=050A18&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CreatorRoad&bg_color=050A18&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
+- Prefer standard Odoo capabilities before introducing unnecessary customization.
+- Keep custom modules modular, readable and upgrade-conscious.
+- Validate inputs and handle integration failures explicitly.
+- Pay attention to access rights, record rules and data integrity.
+- Consider performance and maintainability during design — not only after an issue appears.
+- Document important decisions so that teams can support the solution confidently.
 
 ---
 
-## `07` — LET'S CONNECT
+## CURRENT LEARNING TRACK
+
+I'm continuously expanding my engineering toolkit beyond ERP application development.
+
+| Focus | What I'm working towards |
+|:--|:--|
+| **Docker** | Images, containers, volumes, networks and containerized Odoo environments |
+| **DevOps** | Build and deployment automation, CI/CD pipelines and release practices |
+| **Cloud** | Linux server administration, AWS infrastructure and production operations |
+| **Architecture** | Maintainable application design, integration patterns and scalability |
+| **AI + ERP** | Practical ways to connect AI capabilities with enterprise workflows |
+
+---
+
+## GITHUB
 
 <div align="center">
 
-### Have an ERP challenge or an interesting engineering idea?
-
-I'm always interested in connecting with developers, technology professionals, and organizations building impactful software solutions.
-
-<a href="https://www.linkedin.com/in/sajith-rahman-a-m-3b3130229/">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/CreatorRoad">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/CreatorRoad?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**BUILD. AUTOMATE. INNOVATE. REPEAT.**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CreatorRoad&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=2563EB&icon_color=0F766E&text_color=64748B&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorRoad&layout=compact&hide_border=true&bg_color=ffffff00&title_color=2563EB&text_color=64748B" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:101B3D,100:050A18&height=120&section=footer" width="100%" />
+</div>
+
+---
+
+## LET'S CONNECT
+
+I'm open to connecting with engineering teams, ERP professionals and organizations working on meaningful business software.
+
+- **LinkedIn:** [linkedin.com/in/sajith-rahman-a-m-3b3130229](https://www.linkedin.com/in/sajith-rahman-a-m-3b3130229/)
+- **GitHub:** [github.com/CreatorRoad](https://github.com/CreatorRoad)
+
+<div align="center">
+
+**THANK YOU FOR VISITING.**
+
+<sub>Python · Odoo · ERP Engineering · Business Automation</sub>
 
 </div>
